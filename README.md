@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Alper. A passionate Front-end Developer candidate from Turkey. 
 
 
-- 🌱 I’m currently learning **React and TypeScript**
+- 🌱 I’m currently learning **React and Tailwind**
 - 📫 How to reach me **erkol.alper@yahoo.com**
 
 ### Languages and Tools:
