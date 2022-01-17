@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Alper. A passionate Front-end Developer candidate from Turkey. 
 
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript** and **SQL**
 - 📫 How to reach me **erkol.alper@yahoo.com**
 
 ### Languages and Tools:
