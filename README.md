@@ -24,6 +24,7 @@
 
 </div>
 
+### Statistics:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Alper's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlperErkol&show_icons=true&theme=radical)
 
