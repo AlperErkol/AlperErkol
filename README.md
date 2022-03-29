@@ -1,4 +1,4 @@
-### Hi 👋, I'm Alper. A passionate Full Stack Web Developer candidate from Turkey. 
+### Hi 👋, I'm Alper. A passionate Software Engineer from Turkey. 
 
 
 - 🌱 I’m currently learning **Typescript** and **SQL**
