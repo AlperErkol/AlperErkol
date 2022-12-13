@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Alper. A passionate Software Engineer from Turkey. 
 
 
-- 🌱 I’m currently learning **Typescript** and **Next**
+- 🌱 I’m currently learning **Typescript** and **Jest**
 - 📫 How to reach me **erkol.alper@yahoo.com**
 
 ### Languages and Tools:
